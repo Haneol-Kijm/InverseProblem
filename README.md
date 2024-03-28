@@ -1,5 +1,5 @@
 # InverseProblem
-To solve inverse problem on fastMRI data with Transformer and Mixer networks
+To solve inverse problem on various dataset with Transformer and Mixer networks
 
 
 
